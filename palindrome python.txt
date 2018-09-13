@@ -1,0 +1,34 @@
+s1=str(input())
+s2=str(input())
+s3=str(input())
+s4=str(input())
+s5=str(input())
+s6=str(input())
+s7=str(input())
+s8=str(input())
+s9=str(input())
+s10=str(input())
+s11=str(input())
+s12=str(input())
+ss1=s1+s2+s3
+ss2=s4+s5+s6
+ss3=s7+s8+s9
+s1s1=''.join(reversed(ss1))
+s2s2=''.join(reversed(ss2))
+s3s3=''.join(reversed(ss3))
+if(s1s1==ss1):
+  print('palindrome')
+else:
+  print('not a palindrome') 
+if(s2s2==ss2):
+  print('palindrome')
+else:
+  print('not palindrome')
+if(s3s3==ss3):
+  print('palindrome')
+else:
+  print('not a palindrome')  
+
+
+link:https://repl.it/repls/HotExtraneousPackage
+  https://onlinegdb.com/HyqeVNBO7
